@@ -1,0 +1,10 @@
+[
+    {
+        "nombre": "Yair Dorantes",
+        "telefono": "729567",
+        "cargo": "programador",
+        "fecha": "2023-08-02",
+        "genero": "masculino",
+        "EdoSolicitud": "Estado de Mexico"
+    }
+]
